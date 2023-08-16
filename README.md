@@ -7,9 +7,9 @@ Usage - To use this website effectively,  you need to enter the node and fill ou
 
 Visual Studio Code - https://1drv.ms/i/s!AjsvYdlJ0aVdhhC0uXDEtlCl6FvU?e=HhMKFv
 
-Website - 
+Website - https://jaxson20.github.io/README-generator/
 
-picture of the live site - 
+picture of the live site - https://1drv.ms/i/s!AjsvYdlJ0aVdhhF6Di5O8TgyLvqp?e=Zw9c1F
 
 Credits KU Bootcamp, Module 9, Google,
 
